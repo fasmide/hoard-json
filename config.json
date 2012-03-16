@@ -1,0 +1,6 @@
+{
+  "scriptPath":   "/home/fas/hoard/scripts",
+  "fqdn":         "dev.fas.mide.dk",
+  "sampleInterval": 1,
+  "webPort": 8000
+}
